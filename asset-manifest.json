@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pool.github.io/static/css/main.5fd35516.css",
+    "main.css": "/pool.github.io/static/css/main.73888d36.css",
     "main.js": "/pool.github.io/static/js/main.4507d927.js",
     "static/js/787.49970623.chunk.js": "/pool.github.io/static/js/787.49970623.chunk.js",
-    "static/media/aaaaa.png": "/pool.github.io/static/media/aaaaa.521b7034a59c8a81b7a8.png",
+    "static/media/bgimg.png": "/pool.github.io/static/media/bgimg.e2b8769a72cea32763ee.png",
     "static/media/x.png": "/pool.github.io/static/media/x.98970bea7c4871c26944.png",
     "static/media/Bebas-Regular.ttf": "/pool.github.io/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
     "index.html": "/pool.github.io/index.html",
-    "main.5fd35516.css.map": "/pool.github.io/static/css/main.5fd35516.css.map",
+    "main.73888d36.css.map": "/pool.github.io/static/css/main.73888d36.css.map",
     "main.4507d927.js.map": "/pool.github.io/static/js/main.4507d927.js.map",
     "787.49970623.chunk.js.map": "/pool.github.io/static/js/787.49970623.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fd35516.css",
+    "static/css/main.73888d36.css",
     "static/js/main.4507d927.js"
   ]
 }
