@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pool.github.io/static/css/main.7f97b927.css",
+    "main.css": "/pool.github.io/static/css/main.47246c3e.css",
     "main.js": "/pool.github.io/static/js/main.5495a85a.js",
     "static/js/787.49970623.chunk.js": "/pool.github.io/static/js/787.49970623.chunk.js",
     "static/media/x.png": "/pool.github.io/static/media/x.98970bea7c4871c26944.png",
     "static/media/Bebas-Regular.ttf": "/pool.github.io/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
     "index.html": "/pool.github.io/index.html",
-    "main.7f97b927.css.map": "/pool.github.io/static/css/main.7f97b927.css.map",
+    "main.47246c3e.css.map": "/pool.github.io/static/css/main.47246c3e.css.map",
     "main.5495a85a.js.map": "/pool.github.io/static/js/main.5495a85a.js.map",
     "787.49970623.chunk.js.map": "/pool.github.io/static/js/787.49970623.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f97b927.css",
+    "static/css/main.47246c3e.css",
     "static/js/main.5495a85a.js"
   ]
 }
