@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pool.github.io/static/css/main.13061d67.css",
-    "main.js": "/pool.github.io/static/js/main.593715ad.js",
+    "main.css": "/pool.github.io/static/css/main.4947531f.css",
+    "main.js": "/pool.github.io/static/js/main.7b0e8660.js",
     "static/media/bgimg.png": "/pool.github.io/static/media/bgimg.e2b8769a72cea32763ee.png",
     "static/media/x.png": "/pool.github.io/static/media/x.98970bea7c4871c26944.png",
     "static/media/sixthlogo.png": "/pool.github.io/static/media/sixthlogo.226ff3bbebf3eac359af.png",
@@ -9,11 +9,11 @@
     "static/media/youtube.png": "/pool.github.io/static/media/youtube.eda83b487846be6ca180.png",
     "static/media/Bebas-Regular.ttf": "/pool.github.io/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
     "index.html": "/pool.github.io/index.html",
-    "main.13061d67.css.map": "/pool.github.io/static/css/main.13061d67.css.map",
-    "main.593715ad.js.map": "/pool.github.io/static/js/main.593715ad.js.map"
+    "main.4947531f.css.map": "/pool.github.io/static/css/main.4947531f.css.map",
+    "main.7b0e8660.js.map": "/pool.github.io/static/js/main.7b0e8660.js.map"
   },
   "entrypoints": [
-    "static/css/main.13061d67.css",
-    "static/js/main.593715ad.js"
+    "static/css/main.4947531f.css",
+    "static/js/main.7b0e8660.js"
   ]
 }
