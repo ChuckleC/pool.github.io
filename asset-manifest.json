@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/pool.github.io/static/css/main.4947531f.css",
-    "main.js": "/pool.github.io/static/js/main.7b0e8660.js",
+    "main.css": "/pool.github.io/static/css/main.10835b33.css",
+    "main.js": "/pool.github.io/static/js/main.a109dcbf.js",
+    "static/media/will.png": "/pool.github.io/static/media/will.d500c677577c51d6faa1.png",
     "static/media/bgimg.png": "/pool.github.io/static/media/bgimg.e2b8769a72cea32763ee.png",
+    "static/media/Formula1-Regular-1.ttf": "/pool.github.io/static/media/Formula1-Regular-1.0f4e3d54644717199c6f.ttf",
+    "static/media/Formula1-Bold-4.ttf": "/pool.github.io/static/media/Formula1-Bold-4.a1d6ae91f3373c37e162.ttf",
     "static/media/x.png": "/pool.github.io/static/media/x.98970bea7c4871c26944.png",
     "static/media/sixthlogo.png": "/pool.github.io/static/media/sixthlogo.226ff3bbebf3eac359af.png",
     "static/media/tiktok.png": "/pool.github.io/static/media/tiktok.e3568dce2c7706e1693b.png",
     "static/media/youtube.png": "/pool.github.io/static/media/youtube.eda83b487846be6ca180.png",
     "static/media/Bebas-Regular.ttf": "/pool.github.io/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
+    "static/media/england.png": "/pool.github.io/static/media/england.5050aaf9d71e9bafed9a.png",
     "index.html": "/pool.github.io/index.html",
-    "main.4947531f.css.map": "/pool.github.io/static/css/main.4947531f.css.map",
-    "main.7b0e8660.js.map": "/pool.github.io/static/js/main.7b0e8660.js.map"
+    "main.10835b33.css.map": "/pool.github.io/static/css/main.10835b33.css.map",
+    "main.a109dcbf.js.map": "/pool.github.io/static/js/main.a109dcbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.4947531f.css",
-    "static/js/main.7b0e8660.js"
+    "static/css/main.10835b33.css",
+    "static/js/main.a109dcbf.js"
   ]
 }
