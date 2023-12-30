@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pool.github.io/static/css/main.7012c2a7.css",
-    "main.js": "/pool.github.io/static/js/main.a0796c90.js",
+    "main.css": "/pool.github.io/static/css/main.b7c6d6cb.css",
+    "main.js": "/pool.github.io/static/js/main.dbffda61.js",
     "static/media/will.png": "/pool.github.io/static/media/will.d500c677577c51d6faa1.png",
     "static/media/bgimg.png": "/pool.github.io/static/media/bgimg.e2b8769a72cea32763ee.png",
     "static/media/Formula1-Regular-1.ttf": "/pool.github.io/static/media/Formula1-Regular-1.0f4e3d54644717199c6f.ttf",
@@ -13,11 +13,11 @@
     "static/media/Bebas-Regular.ttf": "/pool.github.io/static/media/Bebas-Regular.90dabffdfc7cafc45f81.ttf",
     "static/media/england.png": "/pool.github.io/static/media/england.5050aaf9d71e9bafed9a.png",
     "index.html": "/pool.github.io/index.html",
-    "main.7012c2a7.css.map": "/pool.github.io/static/css/main.7012c2a7.css.map",
-    "main.a0796c90.js.map": "/pool.github.io/static/js/main.a0796c90.js.map"
+    "main.b7c6d6cb.css.map": "/pool.github.io/static/css/main.b7c6d6cb.css.map",
+    "main.dbffda61.js.map": "/pool.github.io/static/js/main.dbffda61.js.map"
   },
   "entrypoints": [
-    "static/css/main.7012c2a7.css",
-    "static/js/main.a0796c90.js"
+    "static/css/main.b7c6d6cb.css",
+    "static/js/main.dbffda61.js"
   ]
 }
